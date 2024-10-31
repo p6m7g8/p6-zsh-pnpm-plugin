@@ -43,3 +43,8 @@ alias pws="pnpm workspaces"        # List all workspaces in the monorepo
 # Cache Management
 alias pcc="pnpm cache clean"       # Clear pnpm cache
 alias puc="pnpm update -g && pnpm store prune"  # Update global packages and prune store
+
+# AWS CDK
+alias pD="pnpm cdk deploy"
+alias pDD="pnpm cdk diff"
+alias pDF="pnpm cdk destroy"
