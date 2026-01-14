@@ -1,3 +1,4 @@
+# shellcheck shell=bash
 # Core pnpm Aliases
 alias p="pnpm"                     # Base alias for pnpm
 alias pi="pnpm install"            # Install all dependencies
